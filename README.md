@@ -9,6 +9,20 @@
 Employee performance tracking goes beyond just attendance—it gives organizations a data-driven view of productivity, accountability, and overall efficiency. 
 By combining factors like task completion, task complexity, overtime hours and attendance consistency, this tool helps convert raw data into actionable insights.
 
+## How Organizations Can Use This Tool
+1) Managers and Team Leads
+   - Track team productivity across multiple projects.
+   - Identify bottlenecks
+   - Balance workloads
+2) HR Professionals
+   - Automate attendance and performance evaluations.
+   - Spot trends in overtime, engagement and absenteeism.
+   - Use data to design employee training programs.
+3) Employees
+   - Gain transparency into their own performance metrics.
+   - Set personal goals to improve areas like task completion or time management.
+   - Use scores to showcase achivements during appraisals. 
+
 ## url
 
 - http://0.0.0.0:8050
