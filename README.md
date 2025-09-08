@@ -5,6 +5,10 @@
 
 - You can upload CSV or Excel files containing employee data and get calculated results back via an API.
 
+## Why Performance Analysis Matters
+Employee performance tracking goes beyond just attendance—it gives organizations a data-driven view of productivity, accountability, and overall efficiency. 
+By combining factors like task completion, task complexity, overtime hours and attendance consistency, this tool helps convert raw data into actionable insights.
+
 ## url
 
 - http://0.0.0.0:8050
